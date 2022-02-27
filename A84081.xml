@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Errors appearing in the proceeding in the House of Peers in Parliament in the first and second years of the reign of King Charles the First, in the case betwixt Robert De Vere Earl of Oxford, and the Lord Willoughby of Eresby, concerning the office of Great Chamberlain of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84081</idno>
+            <idno type="STC">Wing E3248</idno>
+            <idno type="STC">ESTC R176769</idno>
+            <idno type="EEBO-CITATION">47683443</idno>
+            <idno type="OCLC">ocm 47683443</idno>
+            <idno type="VID">172905</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172905)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2655:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Errors appearing in the proceeding in the House of Peers in Parliament in the first and second years of the reign of King Charles the First, in the case betwixt Robert De Vere Earl of Oxford, and the Lord Willoughby of Eresby, concerning the office of Great Chamberlain of England.</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Birmingham Central Reference Library (Birmingham, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oxford, Robert de Vere, --  Earl of, d. 1632.</term>
+               <term>Lindsey, Robert Bertie, --  Earl of, 1582-1642.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172905:1"/>
+            <pb facs="tcp:172905:1"/>
+            <p>ERRORS Appearing in the PROCEEDINGS IN THE HOUSE Of PEERS IN PARLIAMENT In the Firſt and Second Years of the Reign of King <hi>CHARLES</hi> the Firſt, In the Caſe betwixt <hi>Robert De Vere</hi> Earl of <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> and the Lord <hi>Willoughby</hi> of <hi>Eresby,</hi> Concerning the Office of Great Chamber<g ref="char:EOLhyphen"/>lain of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172905:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:172905:2"/>
+            <head>Errors appearing in the Proceedings in the Houſe of PEERES in Parlia<g ref="char:EOLhyphen"/>ment, in the Firſt and Second yeares of the Raign of King <hi>Charles</hi> the Firſt, in the Caſe betwixt <hi>Robert de Vere</hi> Earl of <hi>Oxford,</hi> and the Lord <hi>Willoughby</hi> of <hi>Eresby,</hi> concerning the Office of Great Chamberlain of <hi>England.</hi>
+            </head>
+            <p>THe Intention of the KINGS Refe<g ref="char:EOLhyphen"/>rence, directing the Lords in Parliament to take the Judges Aſſiſtance and advice in matter of Law, was not performed when they took the opinion but of Five Judges, which were not half of the Judges of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>Did not certifie the <hi>King</hi> according to his Reference <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat they found, but only the majority of the Judges opi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons.</p>
+            <p>Did give their advice, when they were only to certifie <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat they found, and their opinions (there being a grand dif<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ence betwixt an opinion of the Lords in Parliament) de<g ref="char:EOLhyphen"/>claring
+<pb n="2" facs="tcp:172905:3"/>in which of the Competitors the Right reſided, and an advice of the Lords in Parliament how and in what man<g ref="char:EOLhyphen"/>ner his late Majeſtie ſhould declare and ſettle the Earl<g ref="char:EOLhyphen"/>dome upon One, and the Office upon the Other.</p>
+            <p>In the Report of the Judges of the 20th of <hi>March</hi> 1625, to the Peers in Parliament, Recorded in the Journals of the Houſe of Peeres, there is a manifeſt Error as concer<g ref="char:EOLhyphen"/>ning the ſaid Office of Great Chamberlain, &amp; the Baronies of <hi>Bulbeck, Sandford,</hi> and <hi>Badleſmere,</hi> for that they do there<g ref="char:EOLhyphen"/>in mention that the Baronies of <hi>Bulbeck, Sandford,</hi> and <hi>Badleſmere</hi> deſcended to the general Heirs</p>
+            <p>Of <hi>John</hi> the Fourth, Earl of <hi>Oxford,</hi> who had Iſſue <hi>John</hi> the <hi>Fifth,</hi> Earl of <hi>Oxford,</hi> and three Daughters; one of them married to the Lord <hi>Latimer,</hi> another to <hi>Wingfield,</hi> and another to <hi>Knightley.</hi>
+            </p>
+            <p>Which <hi>John</hi> the Fifth, Earl of <hi>Oxford</hi> dying without Iſ<g ref="char:EOLhyphen"/>ſue, thoſe Baronies deſcended upon his ſaid Daughters and Heirs.</p>
+            <p>And being not divideable, are and do remain in the Crown.</p>
+            <p>Whereupon the Houſe agreed upon the Queſtion,</p>
+            <p>That the Baronies of <hi>Bulbeck, Sandford,</hi> and <hi>Badleſ<g ref="char:EOLhyphen"/>mere</hi> are in the <hi>Kings</hi> diſpoſition.</p>
+            <p>Whereas in truth</p>
+            <p>It was <hi>John</hi> the Fourth, Earl of <hi>Oxford</hi> of that Chriſtian name, who dyed in 18. <hi>H.</hi> 8. without Iſſue.</p>
+            <p>And the three Daughters mentioned were neither the Daughters of the ſaid <hi>John</hi> the Fourth, nor of the ſaid <hi>John</hi> the Fifth,</p>
+            <p>But of Sir <hi>George Vere</hi> Knight, third Son of <hi>John</hi> the Se<g ref="char:EOLhyphen"/>cond, Earl of <hi>Oxford,</hi> who dyed in <hi>primo</hi> E. 4.</p>
+            <p>And the ſaid <hi>John</hi> the Fifth, Earl of <hi>Oxford,</hi> was the Fa<g ref="char:EOLhyphen"/>ther of <hi>John</hi> the Sixth, Earl of <hi>Oxford</hi> of that Chriſtian name, (from whom deſcended <hi>Edward</hi> Earl of <hi>Oxford,</hi> and <hi>Henry</hi> Earl of <hi>Oxford</hi> his Son, deceaſed without Iſſue) and <hi>Awbrey de Vere</hi> his Second Son great Grandfather of <hi>Aw<g ref="char:EOLhyphen"/>brey de Vere</hi> now Earl of <hi>Oxford.</hi>
+            </p>
+            <p>And by the Judges not ſtating the whole Fact, and the
+<pb n="3" facs="tcp:172905:3"/>Lords in Parliament not certifying as the King required them, what they found, there happened alſo other manifeſt Errors in that Certificate and opinion, <hi>viz.</hi> a making a De<g ref="char:EOLhyphen"/>ſcent and Title to the ſaid Lord <hi>Willoughby</hi> of the Office of Great Chamberlain in Fee, which could not be if <hi>John</hi> the Fifth, Earl of <hi>Oxford</hi> dyed without Iſſue, leaving his three Daughters and Heirs who were as aforeſaid ſeverally mar<g ref="char:EOLhyphen"/>ryed to the Lord <hi>Latimer,</hi> and to <hi>Wingfield</hi> and <hi>Knightley.</hi>
+            </p>
+            <p>For that there would then have been a deſcent to thoſe three Daughters and Heirs of the Office of Great <hi>Cham<g ref="char:EOLhyphen"/>berlain,</hi> aſwell as they ſuppoſed of the Baronies of <hi>Bulbeck, Sandford,</hi> and <hi>Badleſmere.</hi>
+            </p>
+            <p>Whether they were the Siſters and Heirs (as in truth they were) of <hi>John</hi> the Fourth, Earl of <hi>Oxford,</hi> who dyed with<g ref="char:EOLhyphen"/>out Iſſue, or the Daughters and Heirs (as in truth they were not) of <hi>John</hi> the Fifth, Earl of <hi>Oxford,</hi> who dyed not with<g ref="char:EOLhyphen"/>out Iſſue, but hath Iſſue and Heir Male of his body, <hi>Awbrey</hi> Earl of <hi>Oxford</hi> now living.</p>
+            <p>And if the Office be not dividable, or as they concluded the Baronies to be, muſt by their own reaſons and opinion be in the King.</p>
+            <p>Or if <hi>John</hi> the Sixth, Earl of <hi>Oxford</hi> (Father of <hi>Mary</hi> the Lord <hi>Willoughbies</hi> Anceſtreſs) was not ſeized of the ſaid Office in 4. <hi>Eliz.</hi> when he made the Deed of Uſes or Intail; Or if he were, and did forfeit it by alienating that Office without the Kings Licence or pardon of Alienation, which appears by the Arguments of the Lord Chief Juſtice <hi>Crew</hi> and Juſtice <hi>Dodridge</hi> to be a more then an ordinary point ſtirred in that caſe.</p>
+            <p>And if Tradition ſay truth, was the only cauſe of Baron <hi>Trevors</hi> caſting Vote, Error and Opinion, the Office of Great Chamberlain yet remaineth in the King.</p>
+            <p>And if the then Judges had rightly certified the Lords in Parliament in that particular, and concerning that point,</p>
+            <p>It would have appeared to the Lords in Parliament, or to His late Majeſtie if their Certificate &amp; opinion had not been miſ-guided, that the right of the ſaid Office of Great Cham<g ref="char:EOLhyphen"/>berlain was in the Ear<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of <hi>Oxford</hi> according to the antient
+<pb n="4" facs="tcp:172905:4"/>and conſtant uſage and courſe of Baronies, Offices and Pla<g ref="char:EOLhyphen"/>ces of Honor in <hi>England,</hi> which hath (as may be proved by divers precedents in other Families) alwaies taken care that ſuch Honors and Dignities ſhould remain to the Heirs Males, on whom the Lands of the Baronies, though not the Baronies and Honors themſelvs were entailed, and paſſed by the Heirs Female (though nearer in blood) to the Anceſtor which laſt enjoyed them, and ſettled them upon the Males in a collateral line, where the Males of the right line dyed without Iſſue Male; being moſt agreeable tot he intention and meaning of the Grant of the ſaid Office to <hi>Albericke de Vere,</hi> Anceſtor of the now Earl of <hi>Oxford,</hi> by King <hi>H.</hi> 1. the ſaid Office being not to be executed by a Woman to wear a Staff, or attend the King in his Bedchamber.</p>
+            <p>Or if the Office of Great Chamberlain of <hi>England</hi> had in ſtrictneſs of Law reverted to the Crown and come to the King, he might (where it was not dividable amongſt Heirs Females) have ſettled it, as was done in this particular Of<g ref="char:EOLhyphen"/>fice of Great Chamberlain upon an Earl of <hi>Oxford</hi> in 18. <hi>H.</hi> 8.</p>
+            <p>And when the five Judges <hi>nemine diſſentiente</hi> had the 20th. day of <hi>March,</hi> 1625. made their Report and certifi<g ref="char:EOLhyphen"/>ed their opinion to the Houſe of Peers in Parliament, that the Earldom of <hi>Oxford</hi> by virtue of an Intail by Act of Par<g ref="char:EOLhyphen"/>liament in 16. <hi>R.</hi> 2. was deſcended, and of right ought to come to the ſaid <hi>Robert,</hi> Earl of <hi>Oxford,</hi> and the Heirs Male of his body.</p>
+            <p>The Lords in Parliament did the 22<hi rend="sup">d</hi>. day of that <hi>March,</hi> agree upon the queſtion, That the Earldom of <hi>Oxford</hi> was deſcended, and ought of right to come to the Heir Male, <hi>nemine diſſentiente.</hi>
+            </p>
+            <p>And agreeing upon the queſtion concerning the ſaid Of<g ref="char:EOLhyphen"/>fice of Great Chamberlain, that the Judges ſhould conſider and report to the Houſe whether the Earl of <hi>Oxford,</hi> who made the Intail of the ſaid Office, were at that time ſeized of the ſaid Office.</p>
+            <p>And admitting he were ſeized of the ſaid Office, Then whether ſuch an Office may be conveyed by way of limit<g ref="char:EOLhyphen"/>ting uſes.</p>
+            <pb n="5" facs="tcp:172905:4"/>
+            <p>The former of which Queſtions, <hi>viz:</hi>
+            </p>
+            <p>Whether <hi>John,</hi> Earl of <hi>Oxford</hi> was ſeized of the ſaid Of<g ref="char:EOLhyphen"/>fice when he made the ſaid Intail, doth not at all appear in the Report of the Judges to have been conſidered, as the Houſe directed. The Chief Juſtice <hi>Crew</hi> not at all menti<g ref="char:EOLhyphen"/>oning it in his Argument; And Juſtice <hi>Dodridge</hi> only lea<g ref="char:EOLhyphen"/>ving it as a matter of Fact not proved, admitted it only by way of Suppoſition, which by evidence ſince come to the Earl of <hi>Oxfords</hi> hands can be fully proved.</p>
+            <p>And the 20th. of that <hi>March,</hi> 1625. The Petition of <hi>William</hi> Earl of <hi>Derby,</hi> and <hi>Elizabeth</hi> his Wife, eldeſt Daugh<g ref="char:EOLhyphen"/>ter of <hi>Edward</hi> Earl of <hi>Oxford,</hi> to the King, Praying His Majeſty to give Order that the Lords in Parliament might upon the hearing of the Judges Opinions, forbear to give their Voices for the Lord <hi>Willoughby</hi> in any thing which ought to deſcend upon the Heir general, The Petitioners conceiving that their Title in right of the ſaid Lady <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> eldeſt Daughter of the ſaid <hi>Edward</hi> Earl of <hi>Oxford;</hi> Father of the ſaid <hi>Henry</hi> Earl of <hi>Oxford,</hi> ought to be pre<g ref="char:EOLhyphen"/>ferred.</p>
+            <p>Being read in the Houſe of Peers, and the Lord Keeper ſignifying that His Majeſty had referred that Petition unto their Lordſhips in ſuch manner as He did reſer the other Pe<g ref="char:EOLhyphen"/>titions.</p>
+            <p>Before the Judges Report, of their Opinions concerning the Competitors, the Earl of <hi>Oxford</hi> and the ſaid Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby,</hi> and their ſeveral Claims to the Earldom of <hi>Oxford;</hi> and Office of Great Chamberlain of <hi>England.</hi>
+            </p>
+            <p>And giving in their ſeveral Opinions and the Reaſons of their differences in opinion touching the ſaid Office of Great Chamberlain of <hi>England,</hi> upon Tueſday the 28th. of <hi>March</hi> 1626.</p>
+            <p>The Houſe notwithſtanding the Petition of the Earl of <hi>Derby</hi> and his Wife to be firſt heard before they ſhould give their Votes concerning the Title of the ſaid Lord <hi>Willoughby</hi> to the Office of Lord Great Chamberlain.</p>
+            <p>And their Order made the ſaid 28th. day of <hi>March,</hi> 1626. That they would hear the Councel of the ſaid Earl of
+<pb n="6" facs="tcp:172905:5"/>
+               <hi>Derby,</hi> and the Lady <hi>Elizabeth</hi> his Wife, and the Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby,</hi> at the Bar the next Thurſday morning.</p>
+            <p>And then if the time would permit give their Reſolutions touching the ſaid Office.</p>
+            <p>Did notwithſtanding that the Councel of the ſaid Earl of <hi>Derby</hi> and his Lady, and the Lord <hi>Willoughby,</hi> were not (as appeareth by the Journals of the Houſe of Peers in Parlia<g ref="char:EOLhyphen"/>ment) heard the ſaid Thurſday, being the 30th. of <hi>March,</hi> nor upon the next day, being Fryday, the 31. of that Moneth of <hi>March,</hi> but reſpited until the firſt of <hi>April,</hi> 1626. which was the next day after, put the ſaid 31. day of <hi>March,</hi> 1626. to the Queſtion, Reſolve, and Agree, that the ſaid Office of Lord great Chamberlain, was come and deſcended to the Heir General of the laſt Earl of <hi>Oxford,</hi> not determining or mentioning whether the ſaid Lord <hi>Willoughby,</hi> or the Lady <hi>Elizabeth</hi> the Wife of the ſaid Earl of <hi>Derby,</hi> or the Lord <hi>Windſor</hi> not Petitioning were the Heirs general, or which of them were of the half or the whole Blood to the laſt Earl of <hi>Oxford,</hi> or for what reaſon, or upon what grounds the Heirs of the Lord <hi>Latimer, Wingfield</hi> and <hi>Knightley,</hi> or the Lord <hi>Windſor</hi> and the Earl of <hi>Derby</hi> and his Wife were exclu<g ref="char:EOLhyphen"/>ded, which in that Caſe would have been neceſſary.</p>
+            <p>And the Duke of <hi>Buckingham</hi> thereupon ſignifying to the Houſe, that the King required that His Councel might be heard touching his Title and Claim to the Gift of the ſaid Office.</p>
+            <p>It appeareth that, that Vote and Reſolve, touching the deſcending of the ſaid Office to the Heir General of the laſt Earl of <hi>Oxford</hi> was made before the Councel of the ſaid La<g ref="char:EOLhyphen"/>dy <hi>Elizabeth</hi> and the Earl of <hi>Derby</hi> were at all heard and be<g ref="char:EOLhyphen"/>fore it could be diſcerned or determined by the Houſe which of the Competitors, <hi>viz.</hi> The ſaid Lord <hi>Willoughby</hi> or the Earl of <hi>Derby</hi>'s Lady were the Heirs General.</p>
+            <p>And before the Kings Title was heard or inquired in<g ref="char:EOLhyphen"/>to.</p>
+            <p>And upon the hearing afterwards of the Councel of the Competitors, <hi>viz.</hi> The ſaid Earl of <hi>Derby</hi> and his Wife, &amp; the Lord <hi>Willoughby,</hi> it doth not appear by the Journals of
+<pb n="9" facs="tcp:172905:5" rendition="simple:additions"/>the Houſe, that the Judges were at all conſulted, or any Re<g ref="char:EOLhyphen"/>port made by them touching the Earl of <hi>Derbey's</hi> Peti<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Though in the Certificate of the Houſe to His Majeſty, there is mention made that they had conſulted the Judges, which is to be underſtood in relation only to the Caſe be<g ref="char:EOLhyphen"/>twixt the Earl of <hi>Oxford</hi> and the Lord <hi>Willoughby,</hi> wherein they were conſulted, but not of the Earl of <hi>Derby</hi> wherein they were not conſulted.</p>
+            <p>And the houſe did certifie the Iudges opinions, That the Office of great Chamberlaine did belong to the ſaid Lord <hi>Willoughby.</hi>
+            </p>
+            <p>When in their Vote and Reſolves of the 31 <hi>th.</hi> of <hi>March</hi> 1626. they did only agree that it belonged to the Heir Gene<g ref="char:EOLhyphen"/>ral, not naming or mentioning which of the Competitors, <hi>viz.</hi> the ſaid Earl of <hi>Derby,</hi> and the Lady <hi>Elizabeth</hi> his Wife, or the Lord <hi>Willoughby</hi> was that Heir General.</p>
+            <p>And Juſtice <hi>Dodridge</hi> one of the three Judges, who is ſuppoſed to have made the Majority of Voices, That the Of<g ref="char:EOLhyphen"/>fice of Great Chamberlain of <hi>England</hi> did belong to the ſaid Lord <hi>Willoughby,</hi> as Heir General of <hi>Henry</hi> the laſt Earl of <hi>Oxford</hi> deceaſed, did not reſolve or declare that the ſaid Of<g ref="char:EOLhyphen"/>fice of Great Chamberlain did (as Juſtice <hi>Yelverton</hi> and Ba<g ref="char:EOLhyphen"/>ron <hi>Trevor</hi> had declared it) appertain to the ſaid Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby,</hi> as Heir General to <hi>Henry</hi> the laſt Earl of <hi>Oxon,</hi> but to the Heir General of <hi>Henry</hi> the laſt Earl of <hi>Oxford,</hi> with<g ref="char:EOLhyphen"/>out naming the ſaid Lord <hi>Willoughby,</hi> or determining who was that Heir General.</p>
+            <p>So as it may well be concluded, that there was but two Judges that declared the Lord <hi>Willoughby</hi> to be that Heir General.</p>
+            <p>And then not three Judges of the five, nor the majority of thoſe five Judges did, as the Certificate of the Houſe bear<g ref="char:EOLhyphen"/>ing date the fifth day of that <hi>April</hi> alleageth, reſolve that the ſaid Office of Lord great Chamberlain did belong to the ſaid Lord <hi>Willoughby.</hi>
+            </p>
+            <p>For that if the Lord <hi>Windſors,</hi> Lord <hi>Willoughbyes,</hi> and the Counteſs of <hi>Derbeys</hi> Anceſtors were of the half blood to
+<pb n="8" facs="tcp:172905:6"/>
+               <hi>Edward</hi> and <hi>Henry</hi> Earls of <hi>Oxford,</hi> the ſaid <hi>Robert</hi> Earl of <hi>Oxford</hi> was of the whole blood and collaterall line, (the <hi>linea recta</hi> being expired) to <hi>John</hi> Earl of <hi>Oxford,</hi> who in 4. <hi>Eliz.</hi> entailed upon him in Remainder the Office of Lord Great Chamberlaine, and all the Lands belonging to the Earldom of <hi>Oxford;</hi> ſome of which, viz. The Caſtle of <hi>Hedingham</hi> being the <hi>Caput Baroniae</hi> and parcel of the Earldome were held in <hi>Grand Serjeanty</hi> by the Service of being great Chamberlaine.</p>
+            <p>And the Lord <hi>Willoughby</hi> could not, as the houſe cer<g ref="char:EOLhyphen"/>tified the King, and as ſome of the Judges reſolved, be heire generall to <hi>Henry</hi> Earl of <hi>Oxford,</hi> to whom his mother was but of the halfe blood, but if heir generall to any, muſt have been heir generall to the ſaid <hi>Edward</hi> Earl of <hi>Oxford.</hi>
+            </p>
+            <p>And upon the Reſolves of the Peers in Parliament before the Kings Counſel were heard in it, that the Office did de<g ref="char:EOLhyphen"/>ſcend to the Heir General of the laſt Earl of <hi>Oxford,</hi> and their Reſolves after hearing of the Kings Counſel that there ſhould be a <hi>Salvo Jure Regis,</hi> if the matter of Fact had been as it ought to have been truly ſtated to the King.</p>
+            <p>His Majeſty might, as in ſuch Caſes was uſual, have adviſed with his Councel learned in the Law, how and in what man<g ref="char:EOLhyphen"/>ner to have given his Judgement therein.</p>
+            <p>Which advice with the Kings Councel learned in the Law appeareth not to have been taken:</p>
+            <p>Nor any Report made to the Houſe of Peers of the Kings acceptance, or liking of their Opinion and Certificate, as it was of Queen <hi>Elizabeth</hi> in the 29th. year of her Raign, in the Caſe betwixt the Lord <hi>La Ware</hi> and the Lord <hi>Berkly</hi> for precedency.</p>
+            <p>The delivery of the Staff ſhortly after to the Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby,</hi> and his taking his p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace in the Houſe of Peers, ac<g ref="char:EOLhyphen"/>cording to the Statute of <hi>H.</hi> 8. makes not a legal Judge<g ref="char:EOLhyphen"/>ment either of the King or the Houſe of Peers in Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>For that doth not ſignifie any more then an Office during the Kings pleaſure, and a Temporary eſtate therein, as when Sir <hi>Thomas Erpingham</hi> and others heretofore had and en<g ref="char:EOLhyphen"/>joyed
+<pb n="9" facs="tcp:172905:6"/>that Office, whilſt it was wrongfully detained from the Earls of <hi>Oxford.</hi>
+            </p>
+            <p>And if the King had given any Judgement in this Caſe, it would have been in the form or manner uſual of Judgements given and entred in Parliament.</p>
+            <p>As in that memorable Caſe betwixt <hi>John</hi> Earl of <hi>Arun<g ref="char:EOLhyphen"/>del,</hi> and <hi>John</hi> Duke of <hi>Norff.</hi> touching the Earldome of <hi>Arundel,</hi> which the Duke of <hi>Norff.</hi> claimed as Heir Gene<g ref="char:EOLhyphen"/>ral; and the Earl of <hi>Arundel</hi> by reaſon of the poſſeſſion of the Caſtle and Lordſhip of <hi>Arundel,</hi> to which the Earldome of <hi>Arundel</hi> was united and appurtenant, both the Competi<g ref="char:EOLhyphen"/>tors having Petitioned King <hi>H.</hi> 6. in Parliament in <hi>An.</hi> 11. of his Raign, the Judgement was ſo emnly in this form and manner, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Audita &amp; intellecta Petitione habita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſuper materiis in eadem contentis, &amp; aliis praemiſſis cum Juſticiariis &amp; aliis Legis peritis ac caeteris de Conſilio Domini Regis in dicto Parliamento exiſtentibus, deliberatione, communicatione, &amp; aviſamento auditis etiam hinc inde nonnullis profundis et maturis rationibus, allegationibus, et motivis de Aviſamento &amp; Aſſenſu Praelatorum, Ducum, Comitum, &amp; Baronum in inſtanti Parliamento exiſtentium, Dominus Rex hiis &amp; aliis ductus conſiderationibus &amp; motivis, Decrevit, Inſtituit &amp; Decla<g ref="char:EOLhyphen"/>ravit, &amp;c. Salvo Jure ipſius Ducis</hi> Norfolciae, <hi>vel alterius cujuſlibet in hac parte, &amp;c.</hi>
+            </p>
+            <p>And the like or in the form of a Judgment entred upon the Parliament Roll, where the Queſtions for precedency betwixt <hi>Humfrey</hi> Duke of <hi>Buckingham,</hi> and <hi>Henry</hi> Duke of <hi>Warwick,</hi> in 23. <hi>H.</hi> 6. And in 26. <hi>H.</hi> 6. for precedency betwixt <hi>Thomas</hi> Earl of <hi>Devonſhire,</hi> and <hi>William</hi> Earl of <hi>Arundell,</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
